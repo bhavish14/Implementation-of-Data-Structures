@@ -1,22 +1,4 @@
 Observations
-
-	n = 1048576
-		Insertion Sort
-			Time: 311670 msec.
-			Memory: 6 MB / 245 MB
-			
-		Merge Sort
-			Take 1:
-				Time: 189 msec.
-				Memory: 20 MB / 283 MB
-
-			take 2:
-				Time: 13039 msec.
-				Memory: 541 MB / 1625 MB
-			
-			Take 3:
-				Time: 10897 msec.
-				Memory: 10 MB / 245 MB
 	
     n = 524288
         Insertion Sort: 

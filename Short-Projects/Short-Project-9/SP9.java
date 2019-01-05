@@ -6,7 +6,7 @@ import java.util.*;
  *  Comparing the runtimes of multiple versions of merge sort and insertion sort.
  *
  *  @author     bhavish khanna narayanan    [bxn170002@utdallas.edu]
- *  @author		swapna chintapalli			[sxc180048@utdallas.edu]
+ *  @author
  *  @version    0.2
  *  @since      11-04-2018
  */

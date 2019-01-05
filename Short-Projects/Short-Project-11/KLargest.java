@@ -8,7 +8,7 @@ import bxn170002.timer.Timer;
  *  and Priority Queues.	
  *
  *  @author     bhavish khanna narayanan    [bxn170002@utdallas.edu]
- *  @author		
+ *  @author		Shruti jaiswal 				[sxj170027]
  *  @version    0.1
  *  @since      11-18-2018
  */
